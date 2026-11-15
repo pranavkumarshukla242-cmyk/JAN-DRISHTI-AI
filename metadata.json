@@ -1,0 +1,6 @@
+{
+  "name": "CivicLens AI – National Public Accountability Platform",
+  "description": "National AI-Powered Public Accountability Platform connecting public money, project delivery, institutional responsibility, and citizen oversight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
